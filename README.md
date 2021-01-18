@@ -7,4 +7,4 @@ matplotlibを使ってBitcoin価格をグラフ化
 [PoloniexのAPIを使ってBitcoin価格データの取得](http://darden.hatenablog.com/entry/2016/07/31/203904)
 
 
-![Figure_001.png]( "Figure_001.png")
+![Figure_001.png](https://github.com/whitecat-22/btc_graph/blob/main/Figure_001.png "Figure_001.png")
